@@ -1,5 +1,3 @@
-
-````markdown
 # ☀️ Solar Output Prediction using Regression Models
 
 This repository contains an end-to-end workflow for predicting solar output (in kWh) based on environmental conditions using multiple regression models. The pipeline includes data preprocessing, exploratory data analysis (EDA), model training (with and without scaling), evaluation, and visualization.
